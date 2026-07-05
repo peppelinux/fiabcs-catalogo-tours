@@ -66,8 +66,19 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 | *(a Lorica)* | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
 | *(opzionale)* | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
 
+## Stakeholder
 
+Partner e referenti coinvolti nell'organizzazione del weekend, per giorno.
 
+### Giorno 1 — mercoledì 12 agosto 2026
+
+- **Leonetti** — bike rent service
+- **Giuseppe Guzzo** — [Stazione di Posta Norman Douglas](https://www.stazionediposta.it/)
+
+### Giorno 2 — giovedì 13 agosto 2026
+
+- **Snupers Lorica**
+- **[Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS)** — bike rent service e pranzo
 
 ## Dettagli percorsi
 
