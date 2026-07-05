@@ -38,31 +38,26 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 ### Giorno 1 — mercoledì 12 agosto 2026
 
-
-| Orario             | Attività                                                                                                                                                |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mattina            | **Opzione unsupported:** pedalata Cosenza → Camigliatello (35,8 km, +1.400 m). Punto di partenza Piazza dei Bruzi, ore 5:30 del mattino.                |
-| **10:30**          | Punto di ritrovo a Camigliatello Silano                                                                                                                 |
-| —                  | Sistemazione in struttura (Stazione di Posta Norman Douglas)                                                                                            |
-| **12:00**          | Pranzo                                                                                                                                                  |
-| **13:00**          | Passeggiata nel bosco con i bimbi: Parco Camigliati → Rifugio del Tasso → pausa gelato → ritorno via Parco del Tasso → Stazione di Posta Norman Douglas |
-| **16:00**          | [Anello Cecita](https://www.komoot.com/it-it/tour/2465030104) — visita al vigneto più "alto" d'Europa (durata massima ~3 ore)                           |
-| **20:00**          | Cena                                                                                                                                                    |
-| Sera *(opzionale)* | Osservazione delle stelle verso la Chiesetta di San Lorenzo *(segmento estratto dalla traccia dell'anello Cecita)*                                      |
-
-
-
+| Orario | Attività |
+|--------|----------|
+| Mattina | **Opzione unsupported:** pedalata Cosenza → Camigliatello (35,8 km, +1.400 m). Punto di partenza Piazza dei Bruzi, ore 5:30 del mattino. |
+| **10:30** | Punto di ritrovo a Camigliatello Silano |
+| — | Sistemazione in struttura (Stazione di Posta Norman Douglas) |
+| **12:00** | Pranzo |
+| **13:00** | Passeggiata nel bosco con i bimbi: Parco Camigliati → Rifugio del Tasso → pausa gelato → ritorno via Parco del Tasso → Stazione di Posta Norman Douglas |
+| **16:00** | [Anello Cecita](https://www.komoot.com/it-it/tour/2465030104) — visita al vigneto più "alto" d'Europa (durata massima ~3 ore) |
+| **20:00** | Cena |
+| Sera *(opzionale)* | Osservazione delle stelle verso la Chiesetta di San Lorenzo *(segmento estratto dalla traccia dell'anello Cecita)* |
 
 ### Giorno 2 — giovedì 13 agosto 2026
 
-
-| Orario             | Attività                                                                                     |
-| ------------------ | -------------------------------------------------------------------------------------------- |
-| **07:30**          | Sveglia                                                                                      |
-| **08:30**          | Punto di ritrovo in piazzetta Camigliatello                                                  |
+| Orario | Attività |
+|--------|----------|
+| **07:30** | Sveglia |
+| **08:30** | Punto di ritrovo in piazzetta Camigliatello |
 | Mattina–pomeriggio | [Anello Camigliatello — Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
-| *(a Lorica)*       | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
-| *(opzionale)*      | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
+| *(a Lorica)* | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
+| *(opzionale)* | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
 
 
 
