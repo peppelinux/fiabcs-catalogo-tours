@@ -8,21 +8,28 @@ Weekend nella Sila con pernottamento a Camigliatello Silano. Combina pedalata, p
 
 ### Giorno 1 — Opzione unsupported: Cosenza → Camigliatello
 
-| QR Code | Link e Descrizione |
+| QR Code | Link |
 |--------|------|
-| [![QR Code Komoot — Cosenza Camigliatello](assets/weekend-sila/cosenza-camigliatello.png)](https://www.komoot.com/it-it/tour/2945908206) | **[Da Cosenza a Camigliatello Silano](https://www.komoot.com/it-it/tour/2945908206)** — Salita da Cosenza a Camigliatello Silano (35,8 km, +1.400 m). Percorso unsupported: senza supporto navetta, da affrontare in autonomia per arrivare al ritrovo delle 10:30. |
+| [![QR Code Komoot — Cosenza Camigliatello](assets/weekend-sila/cosenza-camigliatello.png)](https://www.komoot.com/it-it/tour/2945908206) | **[Da Cosenza a Camigliatello Silano](https://www.komoot.com/it-it/tour/2945908206)** |
+
+Salita da Cosenza a Camigliatello Silano (35,8 km, +1.400 m). Percorso unsupported: senza supporto navetta, da affrontare in autonomia per arrivare al ritrovo delle 10:30.
 
 ### Giorno 1 — Anello Cecita
 
-| QR Code | Link e Descrizione |
+| QR Code | Link |
 |--------|------|
-| [![QR Code Komoot — Anello Cecita](assets/weekend-sila/anello-cecita.png)](https://www.komoot.com/it-it/tour/2465030104) | **[Anello Camigliatello Lago di Cecita](https://www.komoot.com/it-it/tour/2465030104)** — Giro ad anello con visita al vigneto più "alto" d'Europa (41,6 km). Partenza consigliata ore 16:00, durata massima ~3 ore. Include il segmento verso la Chiesetta di San Lorenzo per l'osservazione delle stelle *(opzionale)*. |
+| [![QR Code Komoot — Anello Cecita](assets/weekend-sila/anello-cecita.png)](https://www.komoot.com/it-it/tour/2465030104) | **[Anello Camigliatello Lago di Cecita](https://www.komoot.com/it-it/tour/2465030104)** |
+
+Giro ad anello con visita al vigneto più "alto" d'Europa (41,6 km). Partenza consigliata ore 16:00, durata massima ~3 ore. Include il segmento verso la Chiesetta di San Lorenzo per l'osservazione delle stelle *(opzionale)*.
 
 ### Giorno 2 — Anello Lorica via Montescuro
 
-| QR Code | Link e Descrizione |
+| QR Code | Link |
 |--------|------|
-| [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** — Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Pranzo a Lorica al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato. |
+| [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** |
+
+Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Pranzo a Lorica al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato.
+
 ## Descrizione
 
 Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale della Sila. Il programma alterna tratti in bicicletta, momenti di socialità e attività pensate anche per le famiglie con bambini.
