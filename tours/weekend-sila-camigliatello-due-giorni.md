@@ -28,7 +28,7 @@ Giro ad anello con visita al vigneto più "alto" d'Europa (41,6 km). Partenza co
 |--------|------|
 | [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** |
 
-Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Ore 11:30 pedalata con i bimbi lungo il bordo del Lago Arvo (Lorica). Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato.
+Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 07:30 da piazzetta Camigliatello. Ore 11:30 pedalata con i bimbi lungo il bordo del Lago Arvo (Lorica). Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato.
 
 ## Descrizione
 
@@ -60,8 +60,8 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 | Orario | Attività |
 |--------|----------|
-| **07:30** | Sveglia |
-| **08:30** | Punto di ritrovo in piazzetta Camigliatello — partenza [anello Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
+| **06:30** | Sveglia |
+| **07:30** | Punto di ritrovo in piazzetta Camigliatello — partenza [anello Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
 | **11:30** | Pedalata con i bimbi lungo il bordo del Lago Arvo (Lorica) |
 | *(a Lorica)* | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
 | *(opzionale)* | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
@@ -101,7 +101,7 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 **Distanza:** 87,4 km · **Dislivello:** +1.450 m / −1.450 m · **Riferimento Komoot:** ~4h53 di pedalata
 
-**Partenza ore 08:30** da piazzetta Camigliatello. **Ore 11:30 — pedalata con i bimbi:** giro rilassato lungo il bordo del **Lago Arvo** a Lorica, adatto a famiglie e ritmo lento. I genitori con bambini possono unirsi a questo tratto senza affrontare l'intero anello.
+**Partenza ore 07:30** da piazzetta Camigliatello. **Ore 11:30 — pedalata con i bimbi:** giro rilassato lungo il bordo del **Lago Arvo** a Lorica, adatto a famiglie e ritmo lento. I genitori con bambini possono unirsi a questo tratto senza affrontare l'intero anello.
 
 **Pranzo a Lorica** al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(Via Nazionale 53)*, dopo la pedalata bordo lago.
 
