@@ -28,7 +28,7 @@ Giro ad anello con visita al vigneto più "alto" d'Europa (41,6 km). Partenza co
 |--------|------|
 | [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** |
 
-Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Pranzo a Lorica al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato.
+Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Ore 11:30 pedalata con i bimbi lungo il bordo del Lago Arvo (Lorica). Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato.
 
 ## Descrizione
 
@@ -61,8 +61,8 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 | Orario | Attività |
 |--------|----------|
 | **07:30** | Sveglia |
-| **08:30** | Punto di ritrovo in piazzetta Camigliatello |
-| Mattina–pomeriggio | [Anello Camigliatello — Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
+| **08:30** | Punto di ritrovo in piazzetta Camigliatello — partenza [anello Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
+| **11:30** | Pedalata con i bimbi lungo il bordo del Lago Arvo (Lorica) |
 | *(a Lorica)* | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
 | *(opzionale)* | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
 
@@ -101,7 +101,9 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 **Distanza:** 87,4 km · **Dislivello:** +1.450 m / −1.450 m · **Riferimento Komoot:** ~4h53 di pedalata
 
-**Partenza ore 08:30** da piazzetta Camigliatello. **Pranzo a Lorica** al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(Via Nazionale 53)*, lungo il percorso dell'anello.
+**Partenza ore 08:30** da piazzetta Camigliatello. **Ore 11:30 — pedalata con i bimbi:** giro rilassato lungo il bordo del **Lago Arvo** a Lorica, adatto a famiglie e ritmo lento. I genitori con bambini possono unirsi a questo tratto senza affrontare l'intero anello.
+
+**Pranzo a Lorica** al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(Via Nazionale 53)*, dopo la pedalata bordo lago.
 
 **Opzione salita di ritorno in funivia *(facoltativa)*:** al rientro da Lorica, in alternativa alla salita in bicicletta, è possibile prendere la funivia dalla stazione del **Cavaliere** (Lorica) e raggiungere il **Rifugio Botte Donato** (1.928 m), dove è previsto il ritrovo del gruppo. Da lì si prosegue il rientro verso Camigliatello in sella, percorrendo la via delle vette.
 
@@ -119,7 +121,7 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 - Rifugio del Tasso
 - Lago di Cecita e vigneto più "alto" d'Europa
 - Chiesetta di San Lorenzo *(osservazione stelle, opzionale)*
-- Lorica, Lago Arvo e [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(pranzo)*
+- Lorica, Lago Arvo, [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(pranzo)* e pedalata bordo lago con i bimbi
 - Cavaliere (Lorica) — stazione funivia *(opzione salita di ritorno)*
 - Rifugio Botte Donato *(ritrovo opzione funivia)*
 - Montescuro
@@ -130,7 +132,7 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 **Audience:**
 
-- 👨‍👩‍👧‍👦 Famiglie *(passeggiata nel bosco e programma pomeridiano)*
+- 👨‍👩‍👧‍👦 Famiglie *(passeggiata nel bosco, pedalata bordo lago a Lorica e programma pomeridiano)*
 - 🚴 Ciclisti con buona preparazione per salite e distanze
 - 🌲 Amanti della natura e della montagna
 - 🏔️ Escursionisti ciclistici
