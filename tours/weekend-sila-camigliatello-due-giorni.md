@@ -1,6 +1,6 @@
 # Tour: 🟡🔴 Weekend Sila — Camigliatello due giorni (Cosenza)
 
-Weekend di due giorni nella Sila con pernottamento a Camigliatello Silano. Combina pedalata, passeggiate nel bosco per famiglie, anelli ciclistici sui laghi e cena conviviale. Adatto a chi vuole vivere la montagna con ritmo rilassato ma anche a chi preferisce affrontare in autonomia la salita da Cosenza.
+Weekend nella Sila con pernottamento a Camigliatello Silano. Combina pedalata, passeggiate nel bosco per famiglie, anelli ciclistici sui laghi e cena conviviale. Adatto a chi vuole vivere la montagna con ritmo rilassato ma anche a chi preferisce affrontare in autonomia la salita da Cosenza.
 
 **Date proposte:** 12–13 agosto 2026
 
@@ -22,7 +22,7 @@ Weekend di due giorni nella Sila con pernottamento a Camigliatello Silano. Combi
 
 | QR Code | Link e Descrizione |
 |--------|------|
-| [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** — Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Pranzo a Lorica al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). |
+| [![QR Code Komoot — Anello Lorica](assets/weekend-sila/anello-lorica-montescuro.png)](https://www.komoot.com/it-it/tour/2468775889) | **[Giro ad anello Camigliatello Lorica passando da Montescuro](https://www.komoot.com/it-it/tour/2468775889)** — Anello via Lorica e Montescuro (87,4 km, +1.450 m). Partenza ore 08:30 da piazzetta Camigliatello. Pranzo a Lorica al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS). *Opzione salita di ritorno:* funivia da Cavaliere (Lorica), ritrovo al Rifugio Botte Donato. |
 ## Descrizione
 
 Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale della Sila. Il programma alterna tratti in bicicletta, momenti di socialità e attività pensate anche per le famiglie con bambini.
@@ -62,6 +62,7 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 | **08:30**          | Punto di ritrovo in piazzetta Camigliatello                                                  |
 | Mattina–pomeriggio | [Anello Camigliatello — Lorica via Montescuro](https://www.komoot.com/it-it/tour/2468775889) |
 | *(a Lorica)*       | Pranzo al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) |
+| *(opzionale)*      | **Salita di ritorno in funivia** dalla stazione del Cavaliere (Lorica): ritrovo al Rifugio Botte Donato, poi prosecuzione verso Camigliatello |
 
 
 
@@ -100,6 +101,8 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 
 **Partenza ore 08:30** da piazzetta Camigliatello. **Pranzo a Lorica** al [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(Via Nazionale 53)*, lungo il percorso dell'anello.
 
+**Opzione salita di ritorno in funivia *(facoltativa)*:** al rientro da Lorica, in alternativa alla salita in bicicletta, è possibile prendere la funivia dalla stazione del **Cavaliere** (Lorica) e raggiungere il **Rifugio Botte Donato** (1.928 m), dove è previsto il ritrovo del gruppo. Da lì si prosegue il rientro verso Camigliatello in sella, percorrendo la via delle vette.
+
 - **Gruppo Veloce (~20 km/h):** ~4h25-5h00 (pedalata + soste)
 - **Gruppo Medio (~15 km/h):** ~5h50-6h30 (pedalata + soste)
 - **Gruppo Lento (~10 km/h):** ~8h45-9h30 (pedalata + soste)
@@ -115,6 +118,8 @@ Weekend organizzato di due giorni a Camigliatello Silano, nel Parco Nazionale de
 - Lago di Cecita e vigneto più "alto" d'Europa
 - Chiesetta di San Lorenzo *(osservazione stelle, opzionale)*
 - Lorica, Lago Arvo e [Chiosco Rosso](https://www.google.com/maps/search/?api=1&query=Il+Chiosco+Rosso,+Via+Nazionale+53,+87055+Lorica+CS) *(pranzo)*
+- Cavaliere (Lorica) — stazione funivia *(opzione salita di ritorno)*
+- Rifugio Botte Donato *(ritrovo opzione funivia)*
 - Montescuro
 - Via delle vette
 - Parco Nazionale della Sila
