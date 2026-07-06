@@ -1,7 +1,7 @@
 # Cosa Portare in Bici
 
 - **Equipaggiamento essenziale:**
-  - Bicicletta in buone condizioni (controllo freni, cambio, pneumatici)
+  - Bicicletta in buone condizioni — vedi [Controllo bici prima di partire](controllo-bici-pre-partenza.md)
   - Casco (obbligatorio)
   - Kit di riparazione base:
     - **Con camera d'aria (tube):** 2 camere d'aria di scorta, leve per smontare il copertone, kit ripara-forature o bomboletta gonfia, pompa o cartucce CO₂

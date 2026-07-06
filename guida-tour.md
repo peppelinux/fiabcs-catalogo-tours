@@ -28,4 +28,4 @@ I tempi stimati per i percorsi proposti, includendo soste per la visita dei punt
   - **Sforzo richiesto:** Molto elevato. Percorsi estremamente impegnativi con salite molto ripide, dislivelli elevati e distanze lunghe. Solo per ciclisti esperti.
   - **Preparazione:** Allenamento intensivo e specializzato necessario. Preparazione atletica di alto livello, esperienza con percorsi estremi e ottima gestione della fatica prolungata.
 
-Vedi anche: [Cosa Portare in Bici](cosa-portare-in-bici.md)
+Vedi anche: [Cosa Portare in Bici](cosa-portare-in-bici.md) · [Controllo bici prima di partire](controllo-bici-pre-partenza.md)
