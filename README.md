@@ -6,7 +6,7 @@ Selezione di bike tour pensati per esplorare diverse aree all'interno della Cala
 
 ### Guide e contributi
 
-- [Requisiti per Contributi](contributi.md)
+- [Contributi](contributi.md)
 - [Come Affrontare un Tour](guida-tour.md)
 - [Cosa Portare in Bici](cosa-portare-in-bici.md)
 
